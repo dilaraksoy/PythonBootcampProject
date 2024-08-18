@@ -11,4 +11,4 @@ Bu Python programı, klasik "Taş, Kağıt, Makas" oyununu hem tek oyunculu hem 
   - **Tek Kişi**: Bir oyuncu bilgisayara karşı oynar.
 
 - **Jokerler**:
-  - **Geçmişe Dön**: Bu joker, bir önceki turun sonucunu geçersiz kılar ve rakibin bir puanını siler.
+  - **Geçmişe Dön**: Bu joker, bir önceki turun sonucunu geçersiz kılar ve rakibin varsa bir puanını siler.
